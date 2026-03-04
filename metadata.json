@@ -1,0 +1,6 @@
+{
+  "name": "AI Notes Dashboard",
+  "description": "A modern AI-powered note-taking application integrated with Supabase.",
+  "requestFramePermissions": [],
+  "prompt": "AI Notes Dashboard with Supabase integration"
+}
